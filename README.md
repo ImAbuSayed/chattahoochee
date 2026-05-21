@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chattahoochee/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Chattahoochee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chattahoochee/) |
+| **Get License** | [Request Licensing for Chattahoochee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chattahoochee/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Down by the river where the memories glow
+> I want to feel the rhythm starting slow
+> We got the radio on and the passion hot
+> Give me every single piece of what you got
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
